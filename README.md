@@ -9,7 +9,7 @@
 
 ### 🧑‍💻 About Me
 - :round_pushpin: **Location:** Bogotá, Colombia
-- :e-mail: **Email:** davidgomezt.ing@outlook.com
+- :e-mail: **Email:** daviding004@gmail.com
 - :mortar_board: **Studies:** Software engineer
 - :school: **University:** Universidad EAN
 
